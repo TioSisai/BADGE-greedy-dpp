@@ -1,0 +1,3 @@
+# Optional GPU backend. Package names must match the CUDA major version. See README for installation commands.
+cuml-cu13==26.8.0
+cupy-cuda13x==14.2.0

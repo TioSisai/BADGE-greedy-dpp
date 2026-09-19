@@ -1,0 +1,30 @@
+# Editor and system files
+/.vscode/
+**/.DS_Store
+
+# Data caches and experiment outputs
+/cache/
+/outputs/
+*.npy
+
+# Logs and temporary files
+/logs/
+/tmp/
+*.out
+*.log
+
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Test caches
+.pytest_cache/
+
+# Virtual environments and local paths
+.venv/
+venv/
+.env
+/backup/
